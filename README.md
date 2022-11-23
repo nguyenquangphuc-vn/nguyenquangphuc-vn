@@ -21,8 +21,5 @@
 
 ![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenquangphuc-vn&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquangphuc-vn&layout=compact)](https://github.com/nguyenquangphuc-vn/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenquangphuc-vn)](https://github.com/nguyenquangphuc-vn/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquangphuc-vn&layout=compact)](https://github.com/nguyenquangphuc-vn)
 
