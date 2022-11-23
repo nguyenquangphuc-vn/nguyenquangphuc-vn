@@ -18,7 +18,7 @@
 
 <p align="left">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nguyenquangphuc-vn&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquangphuc-vn&layout=compact" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquangphuc-vn&layout=compact" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
